@@ -36,4 +36,4 @@ In summation, our analysis, powered by Power BI, affords a holistic overview of 
 
 ## Visualizations:
 
-<a href="https://github.com/Saitejareddyv/Airbnb_Power-BI/blob/main/Screenshot%202024-03-12%20195604.png" target="_blank"><img style="margin: 10px" src="https://github.com/Saitejareddyv/Airbnb_Power-BI/blob/main/Screenshot%202024-03-12%20195604.png" alt="Python" height="25" /></a> 
+<a href="https://github.com/Saitejareddyv/Airbnb_Power-BI/blob/main/Screenshot%202024-03-12%20195604.png" target="_blank"><img style="margin: 100px" src="https://github.com/Saitejareddyv/Airbnb_Power-BI/blob/main/Screenshot%202024-03-12%20195604.png" alt="Python" height="25" /></a> 
