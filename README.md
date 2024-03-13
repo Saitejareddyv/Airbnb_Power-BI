@@ -33,3 +33,7 @@ This investigation reveals several implications for Airbnb hosts. It highlights 
 
 ## Conclusion:
 In summation, our analysis, powered by Power BI, affords a holistic overview of the Airbnb marketplace, furnishing both hosts and travellers with actionable intelligence. It exemplifies the efficacy of data visualization and meticulous data preparation in facilitating informed decision-making within the realm of short-term rentals.
+
+## Visualizations:
+
+<a href="https://github.com/saitejareddyv/saitejareddyv/blob/main/python.jpg" target="_blank"><img style="margin: 10px" src="https://github.com/saitejareddyv/saitejareddyv/blob/main/python.jpg" alt="Python" height="25" /></a> 
