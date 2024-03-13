@@ -8,22 +8,22 @@ The approach adopted harnesses the dynamic and interactive visualization prowess
 
 ## Key Components:
 ### City Slicers:
-"Facilitates geographic market analysis by allowing filtering by city, highlighting unique trends and pricing from Amsterdam to Vienna."
+Facilitates geographic market analysis by allowing filtering by city, highlighting unique trends and pricing from Amsterdam to Vienna.
 
-### Cost Cards: 
-"Displays real-time average listing prices, adjusting to filter changes, offering immediate insight into pricing dynamics."
+#### Cost Cards: 
+Displays real-time average listing prices, adjusting to filter changes, offering immediate insight into pricing dynamics.
 
-### Guest Satisfaction and Cleanliness Ratings: 
-"Quantifies guest satisfaction and visualizes cleanliness by room type, influencing pricing and preferences."
+#### Guest Satisfaction and Cleanliness Ratings: 
+Quantifies guest satisfaction and visualizes cleanliness by room type, influencing pricing and preferences.
 
-### Number of Guests and Vacation Type: 
-"Analyzes listing capacity and differentiates between weekday and weekend pricing, revealing demand and pricing elasticity."
+#### Number of Guests and Vacation Type: 
+Analyzes listing capacity and differentiates between weekday and weekend pricing, revealing demand and pricing elasticity.
 
-### Location Attractiveness Indexes: 
-"Measures desirability through restaurant and attraction indices, linking them to pricing, highlighting location value."
+#### Location Attractiveness Indexes: 
+Measures desirability through restaurant and attraction indices, linking them to pricing, highlighting location value.
 
-### Map Visualization: 
-"Uses geospatial mapping to show listing clusters, identifying tourist hotspots and areas lacking services."
+#### Map Visualization: 
+Uses geospatial mapping to show listing clusters, identifying tourist hotspots and areas lacking services.
 
 ## Findings:
 The analysis unearthed a palpable nexus between the appeal of a location and the pricing of listings. Properties situated in vicinities boasting higher indices of attractions and dining establishments command higher prices, and an augmented guest capacity invariably elevates the listing price. Furthermore, the distribution of room types and their respective cleanliness ratings markedly impact guest preferences and satisfaction, with entire homes or apartments prevailing as the most favoured and highly rated concerning cleanliness.
