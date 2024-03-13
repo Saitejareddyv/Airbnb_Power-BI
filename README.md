@@ -39,3 +39,5 @@ In summation, our analysis, powered by Power BI, affords a holistic overview of 
 <a href="https://github.com/Saitejareddyv/Airbnb_Power-BI/blob/main/Screenshot%202024-03-12%20195604.png" target="_blank"><img style="margin: 100px" src="https://github.com/Saitejareddyv/Airbnb_Power-BI/blob/main/Screenshot%202024-03-12%20195604.png" alt="Python" height="250" /></a> 
 
 <a href="https://github.com/Saitejareddyv/Airbnb_Power-BI/blob/main/Screenshot%202024-03-12%20195839.png" target="_blank"><img style="margin: 100px" src="https://github.com/Saitejareddyv/Airbnb_Power-BI/blob/main/Screenshot%202024-03-12%20195839.png" alt="Python" height="250" /></a>
+
+<a href="https://github.com/Saitejareddyv/Airbnb_Power-BI/blob/main/Screenshot%202024-03-12%20200005.png" target="_blank"><img style="margin: 100px" src="https://github.com/Saitejareddyv/Airbnb_Power-BI/blob/main/Screenshot%202024-03-12%20200005.png" alt="Python" height="250" /></a>
