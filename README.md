@@ -7,7 +7,7 @@ Amid the dynamic domain of short-term housing, Airbnb emerges as a distinguished
 The approach adopted harnesses the dynamic and interactive visualization prowess of Power BI. Datasets pertaining to individual cities, alongside distinct datasets for weekdays and weekends, were meticulously assembled via Power Query. An elaborate ETL (Extract, Transform, Load) procedure was executed to amalgamate these distinct datasets into a singular model, thereby ensuring a dataset that is both comprehensive and devoid of impurities for the ensuing analysis. Paramount to our analysis are filters specific to each city, options for guest accommodations, disparities in pricing between weekdays and weekends, indices of location-based appeal, and the assortment of room types alongside their cleanliness ratings.
 
 ## Key Components:
-### City Slicers:
+#### City Slicers:
 Facilitates geographic market analysis by allowing filtering by city, highlighting unique trends and pricing from Amsterdam to Vienna.
 
 #### Cost Cards: 
